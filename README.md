@@ -38,6 +38,14 @@ Parameters:
 - Error Delay- Retry delay incase of any error.
 - Comment- User defined comment for the task.     
             
+Screenshots:
+
+- ![Screenshot-1](https://github.com/user-attachments/assets/8ed97b65-663e-4f28-9315-739a66d45138)
+
+- ![Screenshot-2](https://github.com/user-attachments/assets/868ad4da-9b8a-4d1d-bf78-c1e8518e0b3f)
+
+- ![Screenshot-3](https://github.com/user-attachments/assets/ea5488e9-8dbc-4698-9546-82afa95cff38)
+
 
 Change Logs:
 08-02-25: Version-1.0.2 - Added new functions.
