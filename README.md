@@ -49,6 +49,6 @@ Screenshots:
 
 
 Change Logs:
-08-02-25: Version-1.0.2 (R1) - Added new functions.
-14-02-25: Version-1.0.2 (R2) - UI enhancement.
+- 08-02-25: Version-1.0.2 (R1) - Added new functions.
+- 14-02-25: Version-1.0.2 (R2) - UI enhancement.
 
