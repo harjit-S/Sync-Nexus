@@ -41,14 +41,14 @@ Parameters:
             
 Screenshots:
 
-- ![Screenshot-1](https://github.com/user-attachments/assets/8ed97b65-663e-4f28-9315-739a66d45138)
+![Screenshot-1](https://github.com/user-attachments/assets/8ed97b65-663e-4f28-9315-739a66d45138)
 
-- ![Screenshot-2](https://github.com/user-attachments/assets/868ad4da-9b8a-4d1d-bf78-c1e8518e0b3f)
+![Screenshot-2-1](https://github.com/user-attachments/assets/26a4b3ab-2eb7-46d9-b35b-e733bb88a6d5)
 
-- ![Screenshot-3](https://github.com/user-attachments/assets/ea5488e9-8dbc-4698-9546-82afa95cff38)
+![Screenshot-3-1](https://github.com/user-attachments/assets/46a067a2-51d4-4fbd-a6db-39be034d5e8b)
 
 
 Change Logs:
 08-02-25: Version-1.0.2 (R1) - Added new functions.
-14-02-25: Version-1.0.2 (R2) - UI ehancement.
+14-02-25: Version-1.0.2 (R2) - UI enhancement.
 
