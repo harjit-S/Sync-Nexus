@@ -6,7 +6,7 @@ Version-1.0.2
 
 Harjit @2025, mbmaster.pc@gmail.com
 
-Sync Nexus is an open source tool for the folders synchronization task in the Windows-OS.  This software does not gives any gurantee or warranty for its operation. User must give it a try or hands on operation on test directories before putting into the operation.
+Sync Nexus is an open source tool for the folders synchronization task in the Windows-OS.  This software does not gives any gurantee or warranty for its operation. User must give it a try or hands on operation on test directories before putting Sync Nexus into the operation.
 
 Sync Nexus allows to add multiple tasks for different directories to create backup. It provides only one way synchronization from Source --> Destination. It does not changes any folder/file in the source directory. 
 
@@ -21,6 +21,7 @@ Operation:
  - Delete- Delete selected task based on the selected ID of task. 
  - Rules- Add exception rules directories in the rule list.
  - Auto Start- If checked, the application will be run on software start in the system tray.
+ - Export Logs- Export logs available in the grid.
  - Clear Logs- Right click on the logs to clear.
 
 Parameters:
@@ -48,5 +49,6 @@ Screenshots:
 
 
 Change Logs:
-08-02-25: Version-1.0.2 - Added new functions.
+08-02-25: Version-1.0.2 (R1) - Added new functions.
+14-02-25: Version-1.0.2 (R2) - UI ehancement.
 
