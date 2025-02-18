@@ -20,7 +20,8 @@ Operation:
  - Edit- Edit existing task based on the selected ID of task. 
  - Delete- Delete selected task based on the selected ID of task. 
  - Rules- Add exception rules directories in the rule list.
- - Auto Start- If checked, the application will be run on software start in the system tray.
+ - Auto Start- Add application to auto start while computer log on.
+ - Run In Tray- If checked, the application will be run in the system tray.
  - Export Logs- Export logs available in the grid.
  - Clear Logs- Right click on the logs to clear.
 
@@ -43,12 +44,10 @@ Screenshots:
 
 ![Screenshot-1](https://github.com/user-attachments/assets/8ed97b65-663e-4f28-9315-739a66d45138)
 
-![Screenshot-2-1](https://github.com/user-attachments/assets/26a4b3ab-2eb7-46d9-b35b-e733bb88a6d5)
+![Screenshot-2-2](https://github.com/user-attachments/assets/3ab767d8-636e-4516-bb49-97d976dafb82)
 
-![Screenshot-3-1](https://github.com/user-attachments/assets/46a067a2-51d4-4fbd-a6db-39be034d5e8b)
-
+![Screenshot-3-2](https://github.com/user-attachments/assets/16c78285-7488-4cbf-9a4b-c88015886308)
 
 Change Logs:
 - 08-02-25: Version-1.0.2 (R1) - Added new functions.
 - 14-02-25: Version-1.0.2 (R2) - UI enhancement.
-
